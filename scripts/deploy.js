@@ -21,6 +21,9 @@ const main = async () => {
   console.log("Contract balance:", hre.ethers.utils.formatEther(balance));
 }
 
+
+//to depoly contract to the mumbai test network enter 
+// npx hardhat run scripts/deploy.js --network mumbai
 const runMain = async () => {
   try {
     await main();
