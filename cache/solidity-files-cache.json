@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\123\\Downloads\\cool-domains\\contracts\\domain.sol": {
-      "lastModificationDate": 1671264449335,
-      "contentHash": "a7259f49649b9a949c6d7f560bfdef1c",
+      "lastModificationDate": 1671347432099,
+      "contentHash": "c3ff026fa61d1b4097aa864206d04418",
       "sourceName": "contracts/domain.sol",
       "solcConfig": {
         "version": "0.8.17",
